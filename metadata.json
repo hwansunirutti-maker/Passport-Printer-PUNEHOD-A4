@@ -1,0 +1,8 @@
+{
+  "name": "Remix PUNEHOD A4 Passport Printer Archive",
+  "description": "ระบบจัดเก็บคู่มือ ไดร์เวอร์ และซอฟต์แวร์เครื่องพิมพ์ Passport Printer PUNEHOD A4 พร้อมระบบอัพโหลด ค้นหาด่วน ล็อกอินผู้ดูแลระบบ แจ้งเตือน และสำรองข้อมูลอัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
